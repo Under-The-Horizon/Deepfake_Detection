@@ -1,0 +1,7 @@
+Upload Video to Analyze,Detection Result,timestamp
+.gradio\flagged\Upload Video to Analyze\39f66a473202a4f8ef21\deepfakevideo.mp4,"✅ REAL VIDEO
+Confidence: 98.19%",2026-03-25 02:29:05.467480
+.gradio\flagged\Upload Video to Analyze\d715fed2cf8c5dc5d35a\deepfakevideo.mp4,"✅ REAL VIDEO
+Confidence: 93.68%",2026-03-25 02:33:40.212775
+.gradio\flagged\Upload Video to Analyze\794991432536a610feb8\deepfakevideo.mp4,"✅ REAL VIDEO
+Confidence: 93.68%",2026-03-25 02:35:33.013647
