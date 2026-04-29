@@ -37,3 +37,28 @@ The model was trained and evaluated on the **Celeb-DF-v2** dataset, a standard b
 ├── train.py            # Training script with Contrastive Loss
 └── requirements.txt    # Dependencies
 ```
+🚦 Getting Started
+Prerequisites
+Python 3.8+
+
+CUDA-enabled GPU (recommended for training)
+
+Installation
+Clone the repository:
+
+Bash
+git clone https://github.com/erprogs/GenConViT.git
+cd GenConViT
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Running Inference
+Launch the Gradio dashboard to test videos:
+
+Bash
+python app.py
+⚖️ License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Are you planning to include any specific graphs, such as the confusion matrix or ROC curves, in the repository as well?
